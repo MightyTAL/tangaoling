@@ -1,0 +1,25 @@
+baseURL = 'https://MightyTAL.github.io/'
+languageCode = 'en-us'
+title = 'TANG Aoling'
+theme = 'PaperMod'
+[params]
+  author = "TANG Aoling"
+  description = "I'm a postgraduate student majoring in economics at Beihang University."
+  images = ["tangaoling/static/images/profile.jpg"] # Path to your profile image
+  ShowReadingTime = true # Shows reading time on posts
+  ShowShareButtons = true # Show social sharing buttons on posts
+
+  # Social links
+  github = "https://github.com/MightyTAL"
+  linkedin = "https://www.linkedin.com/in/yourprofile"
+  twitter = "https://twitter.com/yourusername"
+  email = "mailto:tal2023@buaa.edu.cn"
+[params.sidebar]
+  disable = false
+  search = true
+  categories = true
+  archives = true
+  recentPosts = true
+  tags = true
+[params.footer]
+  content = "© 2024 Aoling TANG. All rights reserved."
