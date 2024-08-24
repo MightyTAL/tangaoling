@@ -26,6 +26,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-        git add .
-git commit -m "Set up GitHub Actions for deployment"
-git push origin main
